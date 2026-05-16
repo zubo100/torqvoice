@@ -267,7 +267,11 @@ export function AdminUsers({
               </TableRow>
             ) : (
               data.users.map((user) => (
-                <TableRow key={user.id}>
+                <TableRow
+                  key={user.id}
+                  className="cursor-pointer"
+                  onClick={() => router.push(`/admin/users/${user.id}`)}
+                >
                   <TableCell className="font-medium">{user.name}</TableCell>
                   <TableCell>
                     <span className="flex items-center gap-1.5">
@@ -306,7 +310,7 @@ export function AdminUsers({
                       </span>
                     )}
                   </TableCell>
-                  <TableCell>
+                  <TableCell onClick={(e) => e.stopPropagation()}>
                     <DropdownMenu>
                       <DropdownMenuTrigger asChild>
                         <Button
