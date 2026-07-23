@@ -1,81 +1,81 @@
 {
   "page": {
-    "error": "Failed to load work board"
+    "error": "Nepodarilo sa načítať pracovnú tabuľu"
   },
   "toolbar": {
-    "today": "Today",
-    "day": "Day",
-    "week": "Week",
-    "presenter": "Presenter",
-    "addTechnician": "Add Technician",
-    "previousWeek": "Previous week",
-    "nextWeek": "Next week",
-    "previousDay": "Previous day",
-    "nextDay": "Next day"
+    "today": "Dnes",
+    "day": "Deň",
+    "week": "Týždeň",
+    "presenter": "Prezentér",
+    "addTechnician": "Pridať technika",
+    "previousWeek": "Predchádzajúci týždeň",
+    "nextWeek": "Nasledujúci týždeň",
+    "previousDay": "Predchádzajúci deň",
+    "nextDay": "Nasledujúci deň"
   },
   "board": {
     "days": {
-      "mon": "Mon",
-      "tue": "Tue",
-      "wed": "Wed",
-      "thu": "Thu",
-      "fri": "Fri",
-      "sat": "Sat",
-      "sun": "Sun"
+      "mon": "Po",
+      "tue": "Ut",
+      "wed": "St",
+      "thu": "Št",
+      "fri": "Pi",
+      "sat": "So",
+      "sun": "Ne"
     },
-    "noTechnicians": "No Technicians Yet",
-    "noTechniciansDescription": "Add a technician to start scheduling work on the board.",
-    "failedMove": "Failed to move assignment",
-    "failedAssign": "Failed to assign job",
-    "failedRemove": "Failed to remove assignment",
-    "createNewWorkorder": "Create new Workorder"
+    "noTechnicians": "Zatiaľ žiadni technici",
+    "noTechniciansDescription": "Pridajte technika a začnite plánovať prácu na tabuli.",
+    "failedMove": "Nepodarilo sa presunúť priradenie",
+    "failedAssign": "Nepodarilo sa priradiť úlohu",
+    "failedRemove": "Nepodarilo sa odstrániť priradenie",
+    "createNewWorkorder": "Vytvoriť novú pracovnú objednávku"
   },
   "unassigned": {
-    "title": "Unassigned Jobs ({count})",
-    "searchPlaceholder": "Search jobs...",
-    "empty": "No unassigned jobs"
+    "title": "Nepriradené úlohy ({count})",
+    "searchPlaceholder": "Hľadať úlohy...",
+    "empty": "Žiadne nepriradené úlohy"
   },
   "technician": {
-    "editTitle": "Edit Technician",
-    "addTitle": "Add Technician",
-    "name": "Name",
-    "namePlaceholder": "e.g. John Smith",
-    "color": "Color",
-    "linkMember": "Link to Org Member (optional)",
-    "standalone": "Standalone technician",
-    "deleteTitle": "Delete Technician",
-    "deleteDescription": "Remove \"{name}\" from the work board? Their existing assignments will also be removed.",
-    "addTechnician": "Add Technician"
+    "editTitle": "Upraviť technika",
+    "addTitle": "Pridať technika",
+    "name": "Meno",
+    "namePlaceholder": "napr. Ján Novák",
+    "color": "Farba",
+    "linkMember": "Prepojiť na člena organizácie (voliteľné)",
+    "standalone": "Samostatný technik",
+    "deleteTitle": "Odstrániť technika",
+    "deleteDescription": "Odstrániť \"{name}\" z pracovnej tabule? Odstránia sa aj jeho existujúce priradenia.",
+    "addTechnician": "Pridať technika"
   },
   "jobDetail": {
-    "viewDetails": "View Details",
-    "remove": "Remove",
-    "startTime": "Start Time",
-    "endTime": "End Time",
-    "failedDuration": "Failed to update duration",
-    "failedTimes": "Failed to update times",
-    "endBeforeStart": "End time must be after start time"
+    "viewDetails": "Zobraziť detaily",
+    "remove": "Odstrániť",
+    "startTime": "Čas začiatku",
+    "endTime": "Čas konca",
+    "failedDuration": "Nepodarilo sa aktualizovať trvanie",
+    "failedTimes": "Nepodarilo sa aktualizovať časy",
+    "endBeforeStart": "Čas konca musí byť po čase začiatku"
   },
   "presenter": {
-    "title": "Work Board",
-    "day": "Day",
-    "status": "Status",
-    "week": "Week",
-    "today": "Today",
-    "timeline": "Timeline",
-    "live": "Live",
-    "disconnected": "Live updates disconnected",
-    "noTechnicians": "No technicians configured",
-    "noJobsToday": "No jobs today",
-    "job": "{count} job",
-    "jobs": "{count} jobs",
+    "title": "Pracovná tabuľa",
+    "day": "Deň",
+    "status": "Stav",
+    "week": "Týždeň",
+    "today": "Dnes",
+    "timeline": "Časová os",
+    "live": "Naživo",
+    "disconnected": "Živé aktualizácie sú odpojené",
+    "noTechnicians": "Nie sú nakonfigurovaní žiadni technici",
+    "noJobsToday": "Dnes žiadne úlohy",
+    "job": "{count} úloha",
+    "jobs": "{count} úloh",
     "statusLabels": {
-      "pending": "Pending",
-      "inProgress": "In Progress",
-      "waitingParts": "Waiting Parts",
-      "completed": "Completed"
+      "pending": "Čaká",
+      "inProgress": "Prebieha",
+      "waitingParts": "Čaká na diely",
+      "completed": "Dokončené"
     },
-    "previous": "Previous",
-    "next": "Next"
+    "previous": "Predchádzajúce",
+    "next": "Ďalej"
   }
 }

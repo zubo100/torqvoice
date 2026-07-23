@@ -1,69 +1,69 @@
 {
   "weekdays": {
-    "sun": "Sun",
-    "mon": "Mon",
-    "tue": "Tue",
-    "wed": "Wed",
-    "thu": "Thu",
-    "fri": "Fri",
-    "sat": "Sat"
+    "sun": "Ne",
+    "mon": "Po",
+    "tue": "Ut",
+    "wed": "St",
+    "thu": "Št",
+    "fri": "Pi",
+    "sat": "So"
   },
   "months": {
-    "january": "January",
-    "february": "February",
-    "march": "March",
-    "april": "April",
-    "may": "May",
-    "june": "June",
-    "july": "July",
+    "january": "Január",
+    "february": "Február",
+    "march": "Marec",
+    "april": "Apríl",
+    "may": "Máj",
+    "june": "Jún",
+    "july": "Júl",
     "august": "August",
     "september": "September",
-    "october": "October",
+    "october": "Október",
     "november": "November",
     "december": "December"
   },
   "stats": {
-    "services": "Services",
-    "overdue": "Overdue",
-    "pendingQuotes": "Pending Quotes",
-    "revenue": "Revenue"
+    "services": "Služby",
+    "overdue": "Po termíne",
+    "pendingQuotes": "Čakajúce ponuky",
+    "revenue": "Tržby"
   },
-  "today": "Today",
-  "workOrder": "Work Order",
+  "today": "Dnes",
+  "workOrder": "Pracovná objednávka",
   "filters": {
-    "services": "Services",
-    "reminders": "Reminders",
-    "quotes": "Quotes"
+    "services": "Služby",
+    "reminders": "Pripomienky",
+    "quotes": "Cenové ponuky"
   },
-  "selectVehicle": "Select Vehicle for Work Order",
+  "selectVehicle": "Vybrať vozidlo pre pracovnú objednávku",
   "dateChoice": {
-    "title": "Work Order Date",
-    "description": "You have {selectedDate} selected. Which date should this work order be for?",
-    "useSelected": "Use {date}",
-    "useToday": "Use today"
+    "title": "Dátum pracovnej objednávky",
+    "description": "Máte vybraný dátum {selectedDate}. Pre ktorý dátum má byť táto pracovná objednávka?",
+    "useSelected": "Použiť {date}",
+    "useToday": "Použiť dnešok"
   },
   "more": "+ {count} more",
   "events": {
     "status": {
-      "completed": "Completed",
-      "inProgress": "In Progress",
-      "waitingParts": "Waiting Parts",
-      "pending": "Pending",
-      "sent": "Sent",
-      "approved": "Approved",
-      "draft": "Draft",
-      "done": "Done",
-      "overdue": "Overdue",
-      "upcoming": "Upcoming"
+      "completed": "Dokončené",
+      "inProgress": "Prebieha",
+      "waitingParts": "Čaká na diely",
+      "pending": "Čaká",
+      "sent": "Odoslané",
+      "approved": "Schválené",
+      "draft": "Koncept",
+      "done": "Hotovo",
+      "overdue": "Po termíne",
+      "upcoming": "Nadchádzajúce"
     },
     "type": {
-      "service": "Service",
-      "reminder": "Reminder",
-      "quote": "Quote"
+      "service": "Servis",
+      "reminder": "Pripomienka",
+      "quote": "CENOVÁ PONUKA"
     },
-    "noEvents": "No events",
-    "selectDay": "Select a day with events or create a new work order."
+    "noEvents": "Žiadne udalosti",
+    "selectDay": "Vyberte deň s udalosťami alebo vytvorte novú pracovnú objednávku."
   },
-  "previousMonth": "Previous month",
-  "nextMonth": "Next month"
+  "previousMonth": "Predchádzajúci mesiac",
+  "nextMonth": "Nasledujúci mesiac"
 }

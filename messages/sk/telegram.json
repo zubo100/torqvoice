@@ -1,65 +1,65 @@
 {
-  "title": "Telegram Settings",
-  "description": "Configure your Telegram bot to send and receive messages with customers.",
+  "title": "Nastavenia Telegramu",
+  "description": "Nakonfigurujte Telegram bota na odosielanie a prijímanie správ so zákazníkmi.",
   "botToken": {
-    "label": "Bot Token",
-    "placeholder": "Enter your bot token from @BotFather",
-    "help": "Create a bot via @BotFather on Telegram to get your token.",
-    "show": "Show token",
-    "hide": "Hide token"
+    "label": "Token bota",
+    "placeholder": "Zadajte token bota z @BotFather",
+    "help": "Vytvorte bota cez @BotFather v Telegrame, aby ste získali token.",
+    "show": "Zobraziť token",
+    "hide": "Skryť token"
   },
   "botUsername": {
-    "label": "Bot Username",
-    "notConnected": "Not connected"
+    "label": "Používateľské meno bota",
+    "notConnected": "Nepripojené"
   },
   "webhook": {
-    "label": "Webhook URL",
-    "description": "This URL is automatically configured when you save your bot token."
+    "label": "URL webhooku",
+    "description": "Táto URL sa automaticky nakonfiguruje po uložení tokenu bota."
   },
   "deepLink": {
-    "title": "Customer Connection Link",
-    "description": "Share this link with customers so they can connect to your bot. Replace the customer ID placeholder with the actual customer ID.",
-    "copied": "Link copied!",
-    "copy": "Copy deep link"
+    "title": "Odkaz na pripojenie zákazníka",
+    "description": "Zdieľajte tento odkaz so zákazníkmi, aby sa mohli pripojiť k botovi. Nahraďte zástupný text ID zákazníka skutočným ID zákazníka.",
+    "copied": "Odkaz skopírovaný!",
+    "copy": "Kopírovať hlboký odkaz"
   },
   "test": {
-    "title": "Test Message",
-    "chatId": "Chat ID",
-    "chatIdPlaceholder": "Enter a Telegram chat ID",
-    "message": "Message",
+    "title": "Testovacia správa",
+    "chatId": "ID chatu",
+    "chatIdPlaceholder": "Zadajte ID Telegram chatu",
+    "message": "Správa",
     "messagePlaceholder": "Type a test message...",
-    "send": "Send Test",
+    "send": "Odoslať test",
     "success": "Test message sent!",
-    "error": "Failed to send test message"
+    "error": "Nepodarilo sa odoslať testovaciu správu"
   },
-  "save": "Save Settings",
-  "saving": "Saving...",
-  "saved": "Telegram settings saved",
-  "saveError": "Failed to save settings",
+  "save": "Uložiť nastavenia",
+  "saving": "Ukladá sa...",
+  "saved": "Nastavenia Telegramu boli uložené",
+  "saveError": "Nepodarilo sa uložiť nastavenia",
   "disconnect": {
-    "button": "Disconnect Bot",
+    "button": "Odpojiť bota",
     "title": "Disconnect Telegram bot?",
-    "description": "This will remove the bot configuration and stop receiving messages. Existing conversation history will be preserved.",
+    "description": "Týmto sa odstráni konfigurácia bota a zastaví prijímanie správ. Existujúca história konverzácií zostane zachovaná.",
     "success": "Telegram bot disconnected",
-    "error": "Failed to disconnect"
+    "error": "Nepodarilo sa: disconnect"
   },
   "qr": {
     "title": "Connect on Telegram",
-    "description": "Scan this QR code to chat with us on Telegram.",
-    "copyLink": "Copy link",
-    "copied": "Link copied!",
-    "sendEmail": "Send by email",
-    "emailSubject": "Connect with us on Telegram",
-    "emailBody": "Hi {name},\n\nYou can now chat with us on Telegram for updates on your vehicle.\n\nClick this link to connect: {link}\n\nThank you!"
+    "description": "Naskenujte tento QR kód a chatujte s nami na Telegrame.",
+    "copyLink": "Kopírovať odkaz",
+    "copied": "Odkaz skopírovaný!",
+    "sendEmail": "Odoslať emailom",
+    "emailSubject": "Spojte sa s nami na Telegrame",
+    "emailBody": "Dobrý deň {name},\n\nTeraz s nami môžete chatovať na Telegrame a dostávať aktualizácie o svojom vozidle.\n\nKliknite na tento odkaz na pripojenie: {link}\n\nĎakujeme!"
   },
   "invoiceQr": {
-    "label": "Show QR code on invoices",
+    "label": "Zobraziť QR kód na faktúrach",
     "description": "Display a Telegram QR code on shared digital invoices so customers can connect."
   },
-  "helpLink": "Learn more",
+  "helpLink": "Zistiť viac",
   "enable": {
-    "label": "Enable Telegram",
-    "hint": "Show Telegram in the sidebar and on customer pages.",
-    "disabledInfo": "Telegram is currently disabled. Enable it to start sending and receiving messages via Telegram."
+    "label": "Povoliť Telegram",
+    "hint": "Zobraziť Telegram v bočnom paneli a na stránkach zákazníkov.",
+    "disabledInfo": "Telegram je momentálne vypnutý. Povoľte ho na odosielanie a prijímanie správ cez Telegram."
   }
 }

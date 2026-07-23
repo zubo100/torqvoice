@@ -1,48 +1,48 @@
 {
   "page": {
-    "featureName": "SMS Messaging",
-    "featureDescription": "Send and receive SMS messages with your customers directly from Torqvoice."
+    "featureName": "SMS správy",
+    "featureDescription": "Odosielajte a prijímajte SMS správy so zákazníkmi priamo z Torqvoice."
   },
   "notConfigured": {
-    "title": "SMS Not Configured",
-    "description": "Set up an SMS provider to send and receive messages with your customers. Supports Twilio, Vonage, and Telnyx.",
-    "goToSettings": "Go to SMS Settings"
+    "title": "SMS nie je nakonfigurované",
+    "description": "Nastavte poskytovateľa SMS na odosielanie a prijímanie správ so zákazníkmi. Podporuje Twilio, Vonage a Telnyx.",
+    "goToSettings": "Prejsť na nastavenia SMS"
   },
   "threads": {
-    "title": "Conversations",
-    "empty": "No conversations yet. Send an SMS from a customer page to start.",
-    "loadMore": "Load more",
-    "selectConversation": "Select a conversation",
-    "you": "You: ",
-    "deleteConversation": "Delete conversation",
-    "deleteTitle": "Delete conversation?",
-    "deleteDescription": "This will permanently delete all messages with {name}. This action cannot be undone.",
-    "deleted": "Conversation deleted",
-    "deleteError": "Failed to delete conversation",
-    "back": "Back",
-    "conversationMenu": "Conversation menu"
+    "title": "Konverzácie",
+    "empty": "Zatiaľ žiadne konverzácie. Začnite odoslaním SMS zo stránky zákazníka.",
+    "loadMore": "Načítať viac",
+    "selectConversation": "Vyberte konverzáciu",
+    "you": "Vy: ",
+    "deleteConversation": "Odstrániť konverzáciu",
+    "deleteTitle": "Odstrániť konverzáciu?",
+    "deleteDescription": "Týmto natrvalo odstránite všetky správy s {name}. Túto akciu nie je možné vrátiť späť.",
+    "deleted": "Konverzácia bola odstránená",
+    "deleteError": "Nepodarilo sa odstrániť conversation",
+    "back": "Späť",
+    "conversationMenu": "Menu konverzácie"
   },
   "conversation": {
-    "noPhone": "No phone number on file for {name}. Add a phone number to start messaging.",
-    "loadOlder": "Load older",
-    "empty": "No messages yet. Send the first message to {name}.",
+    "noPhone": "Pre {name} nie je uložené žiadne telefónne číslo. Pridajte telefónne číslo a začnite posielať správy.",
+    "loadOlder": "Načítať staršie",
+    "empty": "Zatiaľ žiadne správy. Pošlite prvú správu pre {name}.",
     "placeholder": "Message {name}...",
-    "deleteMessage": "Delete message",
-    "deleteTitle": "Delete message?",
-    "deleteDescription": "This will permanently delete this message from the conversation. This action cannot be undone.",
-    "messageDeleted": "Message deleted",
-    "deleteError": "Failed to delete message",
-    "sendError": "Failed to send SMS",
-    "sendMessage": "Send message"
+    "deleteMessage": "Odstrániť správu",
+    "deleteTitle": "Odstrániť správu?",
+    "deleteDescription": "Týmto natrvalo odstránite túto správu z konverzácie. Túto akciu nie je možné vrátiť späť.",
+    "messageDeleted": "Správa bola odstránená",
+    "deleteError": "Nepodarilo sa odstrániť message",
+    "sendError": "Nepodarilo sa odoslať SMS",
+    "sendMessage": "Odoslať správu"
   },
   "sendDialog": {
-    "send": "Send {label}",
-    "message": "Message",
-    "placeholder": "Type your message...",
+    "send": "Odoslať {label}",
+    "message": "Správa",
+    "placeholder": "Napíšte správu...",
     "characters": "{count} / 1600 characters",
-    "sendSms": "Send SMS",
-    "smsSent": "SMS Sent",
-    "sentTo": "{label} has been sent to {name} ({phone})",
-    "sendError": "Failed to send SMS"
+    "sendSms": "Odoslať SMS",
+    "smsSent": "SMS odoslaná",
+    "sentTo": "{label} bolo odoslané pre {name} ({phone})",
+    "sendError": "Nepodarilo sa odoslať SMS"
   }
 }

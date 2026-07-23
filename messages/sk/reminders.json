@@ -1,12 +1,12 @@
 {
-  "error": "Failed to load reminders",
-  "showing": "Showing {count} of {total}",
-  "deleted": "Reminder deleted",
-  "deleteError": "Failed to delete reminder",
-  "vehicle": "Vehicle",
-  "selectVehicle": "Select vehicle...",
-  "searchVehicle": "Search vehicles...",
-  "noVehicle": "No vehicles found.",
-  "pickDate": "Pick a date",
-  "openMenu": "Open menu"
+  "error": "Nepodarilo sa načítať reminders",
+  "showing": "Zobrazuje sa {count} z {total}",
+  "deleted": "Pripomienka odstránená",
+  "deleteError": "Nepodarilo sa odstrániť pripomienku",
+  "vehicle": "Vozidlo",
+  "selectVehicle": "Vybrať vozidlo...",
+  "searchVehicle": "Hľadať vozidlá...",
+  "noVehicle": "Nenašli sa žiadne vozidlá.",
+  "pickDate": "Vybrať dátum",
+  "openMenu": "Otvoriť menu"
 }

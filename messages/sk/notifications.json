@@ -1,11 +1,11 @@
 {
   "panel": {
-    "title": "Notifications",
-    "markAllRead": "Mark all read",
-    "empty": "No notifications yet",
-    "confirmDelete": "Are you sure?",
-    "delete": "Delete",
-    "cancel": "Cancel"
+    "title": "Oznámenia",
+    "markAllRead": "Označiť všetko ako prečítané",
+    "empty": "Zatiaľ žiadne oznámenia",
+    "confirmDelete": "Ste si istí?",
+    "delete": "Odstrániť",
+    "cancel": "Zrušiť"
   },
-  "openNotifications": "Open notifications"
+  "openNotifications": "Otvoriť oznámenia"
 }
