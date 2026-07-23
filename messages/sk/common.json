@@ -1,0 +1,43 @@
+{
+  "brandName": "Torqvoice",
+  "buttons": {
+    "signIn": "Prihlásiť sa",
+    "save": "Uložiť",
+    "saveChanges": "Uložiť zmeny",
+    "cancel": "Zrušiť",
+    "delete": "Odstrániť",
+    "submit": "Odoslať",
+    "back": "Späť",
+    "confirm": "Potvrdiť",
+    "edit": "Upraviť",
+    "add": "Pridať"
+  },
+  "form": {
+    "email": "Email",
+    "password": "Heslo",
+    "emailPlaceholder": "you@example.com",
+    "name": "Meno",
+    "phone": "Telefón",
+    "company": "Spoločnosť",
+    "address": "Adresa",
+    "notes": "Poznámky"
+  },
+  "errors": {
+    "unexpected": "Vyskytla sa neočakávaná chyba. Skúste to znova.",
+    "error": "Chyba"
+  },
+  "terms": {
+    "termsOfService": "Podmienky služby"
+  },
+  "errorPage": {
+    "title": "Niečo sa pokazilo",
+    "description": "Motor sa neočakávane zastavil. Naši mechanici boli upozornení a pracujú na tom.",
+    "tryAgain": "Skúsiť znova",
+    "backToDashboard": "Späť na nástenku"
+  },
+  "notFoundPage": {
+    "title": "Stránka sa nenašla",
+    "description": "Vyzerá to, že táto časť je ešte v dielni. Stránka, ktorú hľadáte, neexistuje alebo bola presunutá.",
+    "backToDashboard": "Späť na nástenku"
+  }
+}
